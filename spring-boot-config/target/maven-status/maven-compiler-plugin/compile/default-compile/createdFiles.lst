@@ -1,0 +1,5 @@
+springbootconfig\controllers\ControlrTst.class
+springbootconfig\db\ApplicationProperties.class
+springbootconfig\Aspect\LogingAspect.class
+springbootconfig\db\DbConfiguration.class
+springbootconfig\SpringBootConfigApplication.class
